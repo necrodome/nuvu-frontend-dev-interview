@@ -11,9 +11,9 @@ Here is an example final screen for a such tool:
 
 Start with a blank page that has the following 5 links:
 
-- **Upload Image**: Launch the file browser for user to select an image. Upon selection, display it on the page.
+- **Upload Image:** Launch the file browser for user to select an image. Upon selection, display it on the page.
 - **Add Text:** Show a dialog (javascript's prompt() is ok) to get text from the user and add that text on top of the image as layer. We should be able to drag the text across the image.
-- **Add New Slide:**: Clear the screen and add a new empty slide. Update the slide list on the left.
+- **Add New Slide:** Clear the screen and add a new empty slide. Update the slide list on the left.
 - **Save Deck:** Store the current state of all slides. You can use localstorage.
 - **Load Deck:** Load the saved deck from localstorage.
 
