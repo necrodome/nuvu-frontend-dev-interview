@@ -18,4 +18,6 @@ Start with a blank page that has the following 5 links:
 - **Load Deck:** Load the saved deck from localstorage.
 
 
-You can implement as many of the items as you want. You can use any libraries you want, but it is better if you can stick to plain javascript as much as you can. (We are using https://stimulusjs.org/ mainly, so bonus points if you use that, too) We will be discussing your code and your architectural choices during the interview.
+You can implement as many of the items as you want. You can use any libraries you want, but it is better if you can stick to plain javascript as much as you can. (We are using https://stimulusjs.org/ mainly, so bonus points if you use that, too) 
+
+Host your code and running example somewhere public. (or send us the code and the instructions for how we can run it) We will be discussing your code and your architectural choices during the interview.
